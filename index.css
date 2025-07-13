@@ -1,0 +1,399 @@
+
+.header {
+      background-color: #1c1832; 
+      color: #bcbcc5;
+      font-size: 13px;
+      padding: 8px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 30px;
+    }
+
+    .headerleft{
+         display: flex;
+      align-items: center;
+      gap: 40px; 
+    }
+
+    .headerright{
+     display: flex;
+      align-items: center;
+      gap: 30px;
+    }
+
+    #color{
+        color: white;
+    }
+
+    #img{
+        left: 200%;
+    }
+
+       .headernavbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 30px;
+      background-color: #f3f5f7;
+    }
+
+    .headernavbar{
+      display: flex;
+    }
+
+   .logo{
+    display: flex;
+   }
+
+  .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #f5f7f9;
+      border-bottom: 1px solid #ddd;
+    }
+    .logo {
+ width: 1920;
+height: 84;
+justify-content: space-between;
+opacity: 1;
+padding-top: 20px;
+padding-right: 300px;
+padding-bottom: 20px;
+padding-left: 300px;
+
+    }
+    .logo-icon {
+      margin-right: 6px;
+    }
+    .cart {
+      display: flex;
+      align-items: center;
+      background-color: white;
+      padding: 5px 10px;
+      border-radius: 8px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+      cursor: pointer;
+    }
+    .cart-count {
+      background-color: #00a4a6;
+      color: white;
+      font-size: 12px;
+      border-radius: 50%;
+      width: 18px;
+      height: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 5px;
+    }
+
+.navbar-home{
+   display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #f5f7f9;
+      border-bottom: 1px solid #ddd;
+      width: 1920;
+height: 74;
+justify-content: space-between;
+padding-top: 14px;
+padding-right: 300px;
+padding-bottom: 14px;
+padding-left: 300px;
+}
+
+.header-chair{
+  display: flex;
+      background-color: #f5f7f9;
+width: 171;
+height: 52;
+opacity: 1;
+top: 514px;
+left: 70px;
+gap: 20px;
+padding-top: 14px;
+padding-right: 24px;
+padding-bottom: 14px;
+padding-left: 24px;
+border-radius: 12px;
+}
+
+.imagechair{
+width: 434;
+height: 584;
+opacity: 1;
+top: 115px;
+left: 777px;
+margin-left: 5%;
+}
+
+.paragrpagh{
+  margin-top: 20%;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 3%;
+}
+
+.paragrpaghp{
+ margin-top: 20%;
+ margin-left: 10%;
+}
+
+#shopnow{
+width: 40%;
+padding: 2%;
+background-color: #029FAE;
+color: #FFFFFF;
+border-radius: 5px;
+border: 2px solid #029FAE;
+}
+
+.companyimages{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+background-color:  #FFFFFF;
+margin-left: 10%;
+}
+.featuredproducts{
+width: 1920;
+height: 461;
+opacity: 1;
+top: 1270px;
+}
+
+.heading{
+width: 286;
+height: 35;
+opacity: 1;
+margin-left: 10%;
+}
+
+
+#new{
+background-color: #01AD5A;
+color: white;
+width: 4%;
+padding: 0.5%;
+position: absolute;
+margin-bottom: 12%;
+margin-left: 1%;
+}
+
+#sale{
+background-color: #F5813F;
+color: white;
+width: 17%;
+padding: 1%;
+position: absolute;
+margin-bottom: 12%;
+margin-left: 4%;
+}
+
+#images{
+  width: 312;
+height: 312;
+opacity: 1;
+border-radius: 10px;
+}
+.imagespicture{
+  margin-left: 12%;
+  height: 40px;
+}
+
+#back{
+  background-color: #000000B2;
+  color: white;
+  width: 26%;
+  padding: 1.2%;
+  position: absolute;
+  top: 1900px;
+}
+
+#chair2{
+  margin-left: 28.7%;
+   background-color: #000000B2;
+  color: white;
+  width: 26%;
+  position: absolute;
+   top: 1900px;
+  padding: 1.2%;
+}
+
+#chair3{
+  margin-left: 57.5%;
+ background-color: #000000B2;
+  color: white;
+  width: 26%;
+  position: absolute;
+   top: 1900px;
+  padding: 1.2%;
+}
+
+.transformgrid{
+  width: 1320;
+height: 648;
+top: 2604px;
+left: 323px;
+opacity: 1;
+
+}
+
+#transform{
+  width: 648.0000000000006;
+height: 52.00000000000004;
+top: -0px;
+left: -52px;
+opacity: 1;
+}
+
+#transform{
+    writing-mode: vertical-rl;   
+  transform: rotate(180deg);   
+  transition: transform 0.5s ease; 
+  margin-left: 16%;
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#transform a:hover{
+  transform: rotate(0deg); 
+}
+
+.gridcontainer{
+  display: grid;
+  margin-left: 19%;
+  position: absolute;
+   top: 2100px;
+}
+
+#img1{
+  display: grid;
+  height: 150%;
+}
+
+.gridleft{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5%;
+  margin-left: 52%;
+  position: absolute;
+   top: 2100px;
+}
+
+.gridbottom{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-gap: 5%;
+  margin-left: 52%;
+  position: absolute;
+   top: 2400px;
+}
+
+.ourproduct{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imglayes{
+  margin-left: 5%;
+}
+
+#tag{
+ background-color: #01AD5A;
+color: white;
+width: 4%;
+padding: 0.5%;
+position: absolute;
+margin-bottom: 12%;
+margin-left: 1%; 
+}
+
+#cale{
+  background-color: #01AD5A;
+  color: white;
+}
+
+.flexbottom{
+  display: flex;
+  justify-content: space-between;
+}
+
+#flexchair{
+  margin-left: 5%;
+  width: 300px;
+}
+
+#newchair{
+   margin-left: 6%;
+   background-color: #01AD5A;
+   color: white;
+   width: 4%;
+   padding: 0.5%;
+  position: absolute;
+  top:3210px;
+}
+
+.footer{
+  width: 1920;
+height: 343;
+opacity: 1;
+background-color: #E1E3E5;
+ padding: 0%; 
+}
+
+.logoicon{
+  margin-left: 12%;
+  position: absolute;
+  top: -08%;
+}
+
+#com{
+  margin-left: 5%;
+  position: absolute;
+  top: 3660px;
+}
+
+.paragraph{
+  margin-left: 12%;
+}
+
+.logoicons{
+  margin-left: 12%;
+  display: flex;
+  gap: 10px;
+}
+
+.category{
+  margin-left: 36%;
+  position: absolute;
+  top: 3580px;
+}
+
+.support{
+  margin-left: 55%;
+  position: absolute;
+    top: 3580px;
+}
+
+.newsletter{
+  margin-left: 75%;
+  position: absolute;
+    top: 3580px;
+}
+
+#sub{
+  margin-left: 69%;
+  position: absolute;
+    top: 60px;
+    padding: 3.5%;
+    background-color: #029FAE;
+    color: white;
+    border-radius: 5px;
+}
